@@ -21,3 +21,19 @@ if _username==username and _password==password :
 else :
     print("account is error")
 
+#多分支
+# if 条件:
+# elif 条件：
+# else 条件：
+#不同于其他编程语言 elseif
+age=26
+user_guess=int(input("your age:"))
+
+if user_guess==age :
+    print("恭喜打对")
+elif user_guess>age :
+    print("试试小点")
+else :
+    print("试试大点")
+
+
