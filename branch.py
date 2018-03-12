@@ -37,3 +37,4 @@ else :
     print("试试大点")
 
 
+# python不同于其他编程语言，没有switch case
